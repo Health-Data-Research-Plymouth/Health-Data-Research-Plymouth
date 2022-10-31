@@ -1,13 +1,61 @@
 ---
-title: "EPSRC Health Data Workshops"
+title: "Plymouth Health Data Research"
 ---
 
 # About
 
-The Centre for Mathematical Sciences at the University of Plymouth is running two workshops under the broad theme of __using data and analytical approaches to improve healthcare services for patient and public benefit.__
+[Write something here about the group]
+
+# Team
+
+## Dr. Yinghui Wei
+![](_assets/team/y_wei.jpg){height="200"}
+Associate Professor of Statistics and project PI.
+
+## Dr. Julian Stander
+![](_assets/team/j_stander.jpg){height="200"}
+Associate Professor in Mathematics and Statistics
+
+## Dr. Nathan Broomhead
+![](_assets/team/n_broomhead.jpg){height="200"}
+Lecturer in Pure Mathematics
+
+## Samantha Prime
+![](_assets/team/s_prime.jpg){height="200"}
+Research Fellow
+
+## Stephanie Riley
+![](_assets/team/s_riley.jpg){height="200"}
+PhD Student in Statistics
+
+## Laurence Sebastian Bowes
+![](_assets/team/l_bowes.jpg){height="200"}
+PhD Student in Theoretical Physics
+
+# Workshops
+
+The Health Data Research (HDR) group at the University of Plymouth is running two workshops under the broad theme of __using data and analytical approaches to improve healthcare services for patient and public benefit.__
 
 The aim of these workshops is to catalyse the benefit of academic research for healthcare patients, bridging the gap between research and practice. In addition to the workshops, we will be organising regular meetings for academic staff and non-academic partners to showcase their work and exchange knowledge, leading to various project opportunities for postgraduate students.
 
-# Workshop 1
 
-# Workshop 2
+## $11^{th}$ of November
+
+### Agenda
+
+| Time | Talk |
+|:-|:-----|
+| 11:30–11:40 | Welcome |
+| 11:40–11:50 | Project overview |
+| 11:50–12:15 | [Plymouth Institute for Health and Care Research](https://www.plymouth.ac.uk/research/institutes/health) |
+| 12:15–12:30 | [![TClarke](_assets/tclarke_logo.png){height="25"}](https://www.tclarke.co.uk/) |
+| 12:30–13:00 | [![Royal Cornwall Hospitals NHS Trust](_assets/rcht_logo.png){height="40"}](https://www.royalcornwall.nhs.uk/)|
+| 13:00–13:15 | [![IRIS Intelligence](_assets/iris_logo.png){height="40"}](https://www.irisintelligence.com/)  |
+| 13:15–13:30 | [![Ipsos](_assets/ipsos_logo.svg){height="40"}](https://www.ipsos.com/en-uk) |
+| 13:30–14:00 | **_Break_** |                                
+| 14:00–14:15 | [![Kensa Health](_assets/kensahealth_logo.png){height="35"}](https://www.kensahealth.co.uk/) |                               
+| 14:15–14:30 | [![Gendius](_assets/gendius_logo.svg){height="40"}](https://www.gendius.co.uk/) |
+| 14:30–14:45 | Tango3 [![Tango 3](_assets/tango3_logo.webp){height="40"}](https://tango3.co.uk/digital-health) |
+| 14:45–15:00 | High Performance Computing and Big Data |
+| 15:00–15:20 | Academic Expertise |                        
+| 15:20–15:30 | _"What’s next?"_ |                               
