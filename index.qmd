@@ -20,6 +20,7 @@ title: "Plymouth Health Data Research"
 - NHS Kernow Datalab
 - NHS Business Services Authority
 - Health Education England
+- Cisco
 
 # Workshops
 
