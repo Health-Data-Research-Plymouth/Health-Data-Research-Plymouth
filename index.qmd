@@ -6,40 +6,20 @@ title: "Plymouth Health Data Research"
 
 [Write something here about the group]
 
-# Team
-
-## Dr. Yinghui Wei
-![](_assets/team/y_wei.jpg){height="200"}
-Associate Professor of Statistics and project PI.
-
-## Prof. Sheena Asthana
-![](_assets/team/s_asthana.jpg){height="200"}
-Director of Plymouth Institute of Health and Care Research
-
-
-## Dr. Julian Stander
-![](_assets/team/j_stander.jpg){height="200"}
-Associate Professor in Mathematics and Statistics
-
-## Dr. Nathan Broomhead
-![](_assets/team/n_broomhead.jpg){height="200"}
-Lecturer in Pure Mathematics
-
-## Samantha Prime
-![](_assets/team/s_prime.jpg){height="200"}
-Research Fellow
-
-## Stephanie Riley
-![](_assets/team/s_riley.jpg){height="200"}
-PhD Student in Statistics
-
-## Laurence Sebastian Bowes
-![](_assets/team/l_bowes.jpg){height="200"}
-PhD Student in Theoretical Physics
-
 # Project Partners
 
-[List of partners to the project]
+- [![TClarke](_assets/tclarke_logo.png){height="25"}](https://www.tclarke.co.uk/)
+- [![Royal Cornwall Hospitals NHS Trust](_assets/rcht_logo.png){height="40"}](https://www.royalcornwall.nhs.uk/)
+- [![Ipsos](_assets/ipsos_logo.svg){height="40"}](https://www.ipsos.com/en-uk)
+- EPIC
+- [![Kensa Health](_assets/kensahealth_logo.png){height="35"}](https://www.kensahealth.co.uk/)
+- [![Gendius](_assets/gendius_logo.svg){height="30"}](https://www.gendius.co.uk/)
+- Tango 3  [![Tango 3](_assets/tango3_logo.webp){height="40"}](https://tango3.co.uk/digital-health)
+- [![IRIS Intelligence](_assets/iris_logo.png){height="40"}](https://www.irisintelligence.com/) 
+- Royal Cornwall Hospitals Business Intelligence
+- NHS Kernow Datalab
+- NHS Business Services Authority
+- Health Education England
 
 # Workshops
 

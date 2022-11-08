@@ -1,0 +1,27 @@
+---
+title: "Team"
+---
+
+::: {layout-ncol=2}
+
+![__Dr. Yinghui Wei__ -- Associate Professor of Statistics and project PI](_assets/team/y_wei.jpg){height="200"}
+
+
+![__Prof. Sheena Asthana__ --  Director of Plymouth Institute of Health and Care Research
+](_assets/team/s_asthana.jpg){height="200"}
+
+
+![__Dr. Julian Stander__ -- Associate Professor in Mathematics and Statistics](_assets/team/j_stander.jpg){height="200"}
+
+![__Dr. Nathan Broomhead__ -- Lecturer in Pure Mathematics](_assets/team/n_broomhead.jpg){height="200"}
+
+![__Samantha Prime__ -- Research Fellow](_assets/team/s_prime.jpg){height="200"}
+
+
+![__Stephanie Riley__ -- PhD Student in Statistics](_assets/team/s_riley.jpg){height="200"}
+
+
+![__Laurence Sebastian Bowes__ -- PhD Student in Theoretical Physics](_assets/team/l_bowes.jpg){height="200"}
+
+:::
+

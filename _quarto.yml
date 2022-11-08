@@ -3,6 +3,12 @@ project:
 
 website:
   title: "EPSRC Health Data Workshops"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: team.qmd
+        text: Team
 
 format:
   html:
@@ -12,5 +18,3 @@ format:
 
 execute:
   freeze: auto
-
-
