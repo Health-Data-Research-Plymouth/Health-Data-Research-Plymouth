@@ -2,7 +2,7 @@
 title: "Team"
 ---
 
-::: {layout-ncol=2}
+::: {layout-ncol=4}
 
 ![__Dr. Yinghui Wei__ -- Associate Professor of Statistics and project PI](_assets/team/y_wei.jpg){height="200"}
 
