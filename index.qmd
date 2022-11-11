@@ -4,7 +4,7 @@ title: "Plymouth Health Data Research"
 
 # About
 
-[Write something here about the group]
+The aim of these workshops is to catalyse the benefit of academic research for healthcare patients, bridging the gap between research and practice. In addition to the workshops, we will be organising regular meetings for academic staff and non-academic partners to showcase their work and exchange knowledge.
 
 # Project Partners
 
@@ -26,7 +26,7 @@ title: "Plymouth Health Data Research"
 
 The Health Data Research (HDR) group at the University of Plymouth is running two workshops under the broad theme of __using data and analytical approaches to improve healthcare services for patient and public benefit.__
 
-The aim of these workshops is to catalyse the benefit of academic research for healthcare patients, bridging the gap between research and practice. In addition to the workshops, we will be organising regular meetings for academic staff and non-academic partners to showcase their work and exchange knowledge, leading to various project opportunities for postgraduate students.
+This workshop is a great opportunity to share expertise and facilitate collaborations, leading to various project opportunities for postgraduate students.
 
 
 ## $11^{th}$ of November
