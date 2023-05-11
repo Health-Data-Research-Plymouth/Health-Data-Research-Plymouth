@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.251">
+<meta name="generator" content="quarto-1.3.340">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -59,6 +59,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -75,19 +76,23 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">EPSRC Health Data Workshops</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./team.html">Team</a>
+    <a class="nav-link" href="./team.html" rel="" target="">
+ <span class="menu-text">Team</span></a>
   </li>  
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -105,9 +110,13 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#project-partners" id="toc-project-partners" class="nav-link" data-scroll-target="#project-partners">Project Partners</a></li>
   <li><a href="#workshops" id="toc-workshops" class="nav-link" data-scroll-target="#workshops">Workshops</a>
   <ul class="collapse">
-  <li><a href="#th-of-november" id="toc-th-of-november" class="nav-link" data-scroll-target="#th-of-november"><span class="math inline">\(11^{th}\)</span> of November</a>
+  <li><a href="#th-of-june" id="toc-th-of-june" class="nav-link" data-scroll-target="#th-of-june"><span class="math inline">\(26^{th}\)</span> of June</a>
   <ul class="collapse">
   <li><a href="#agenda" id="toc-agenda" class="nav-link" data-scroll-target="#agenda">Agenda</a></li>
+  </ul></li>
+  <li><a href="#th-of-november" id="toc-th-of-november" class="nav-link" data-scroll-target="#th-of-november"><span class="math inline">\(11^{th}\)</span> of November</a>
+  <ul class="collapse">
+  <li><a href="#agenda-1" id="toc-agenda-1" class="nav-link" data-scroll-target="#agenda-1">Agenda</a></li>
   </ul></li>
   </ul></li>
   </ul>
@@ -126,6 +135,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -158,10 +168,118 @@ ul.task-list li input[type="checkbox"] {
 <h1>Workshops</h1>
 <p>The Health Data Research (HDR) group at the University of Plymouth is running two workshops under the broad theme of <strong>using data and analytical approaches to improve healthcare services for patient and public benefit.</strong></p>
 <p>This workshop is a great opportunity to share expertise and facilitate collaborations, leading to various project opportunities for postgraduate students.</p>
-<section id="th-of-november" class="level2">
-<h2 class="anchored" data-anchor-id="th-of-november"><span class="math inline">\(11^{th}\)</span> of November</h2>
+<section id="th-of-june" class="level2">
+<h2 class="anchored" data-anchor-id="th-of-june"><span class="math inline">\(26^{th}\)</span> of June</h2>
 <section id="agenda" class="level3">
 <h3 class="anchored" data-anchor-id="agenda">Agenda</h3>
+<table class="table">
+<colgroup>
+<col style="width: 20%">
+<col style="width: 40%">
+<col style="width: 20%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Time</th>
+<th style="text-align: left;">Content</th>
+<th style="text-align: left;">Speaker</th>
+<th style="text-align: left;">Chair</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">10:00–10:30</td>
+<td style="text-align: left;">Tea and coffee, breakfast baps and fruit bowls</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">10:35–10:45</td>
+<td style="text-align: left;">Welcome</td>
+<td style="text-align: left;">Archie Clements, DVC R&amp;E</td>
+<td style="text-align: left;">Samantha Prime</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">10:45–10:50</td>
+<td style="text-align: left;">Project Overview</td>
+<td style="text-align: left;">Yinghui Wei, Project PI</td>
+<td style="text-align: left;">Samantha Prime</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">10:50–11:15</td>
+<td style="text-align: left;">How AI / Health Data Science can influence health policy?</td>
+<td style="text-align: left;">Sheena Asthana, Director CHT</td>
+<td style="text-align: left;">Samantha Prime</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">11:15–11:45</td>
+<td style="text-align: left;">IRIS</td>
+<td style="text-align: left;">Michael Bond and Julian Stander (UoP)</td>
+<td style="text-align: left;">Nathan Broomhead</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">11:45–12:15</td>
+<td style="text-align: left;">BT</td>
+<td style="text-align: left;">Dave Yearlington and Sriharish Kalidass</td>
+<td style="text-align: left;">Nathan Broomhead</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">12:15–12:45</td>
+<td style="text-align: left;">Royal Devon University Healthcare NHS Foundation Trust</td>
+<td style="text-align: left;">Philip Luke / Elizabeth Wilkinson</td>
+<td style="text-align: left;">Nathan Broomhead</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">12:45–13:30</td>
+<td style="text-align: left;">Lunch – Networking and Discussing Collaboration</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">13:30–14:00</td>
+<td style="text-align: left;">IPSOS</td>
+<td style="text-align: left;">Eileen Irvin</td>
+<td style="text-align: left;">Stephanie Riley</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">14:00–14:30</td>
+<td style="text-align: left;">Gendius</td>
+<td style="text-align: left;">Rose Sisk</td>
+<td style="text-align: left;">Stephanie Riley</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">14:30–14:45</td>
+<td style="text-align: left;">Image data research</td>
+<td style="text-align: left;">Craig McNeile</td>
+<td style="text-align: left;">Julian Stander</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">14:45–15:15</td>
+<td style="text-align: left;">PGT project showcase</td>
+<td style="text-align: left;">Shadi Babadi Michael Gulley Josh Gray</td>
+<td style="text-align: left;">Julian Stander</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">15:15–15:45</td>
+<td style="text-align: left;">PhD project showcase</td>
+<td style="text-align: left;">Stephanie Riley Xu Wang Megan Courtman</td>
+<td style="text-align: left;">Julian Stander</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">15:45–15:50</td>
+<td style="text-align: left;">Closing remarks</td>
+<td style="text-align: left;">Yinghui Wei</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="th-of-november" class="level2">
+<h2 class="anchored" data-anchor-id="th-of-november"><span class="math inline">\(11^{th}\)</span> of November</h2>
+<section id="agenda-1" class="level3">
+<h3 class="anchored" data-anchor-id="agenda-1">Agenda</h3>
 <table class="table">
 <thead>
 <tr class="header">
@@ -262,9 +380,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -276,7 +408,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -312,24 +461,128 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>
