@@ -28,6 +28,28 @@ The Health Data Research (HDR) group at the University of Plymouth is running tw
 
 This workshop is a great opportunity to share expertise and facilitate collaborations, leading to various project opportunities for postgraduate students.
 
+## $26^{th}$ of June
+
+### Agenda
+
+| Time | Content | Speaker | Chair |
+|:--|:-----|:--|:--|
+|10:00–10:30| Tea and coffee, breakfast baps and fruit bowls |
+|10:35–10:45| Welcome | Archie Clements, DVC R&E | Samantha Prime |
+|10:45–10:50| Project Overview | Yinghui Wei, Project PI | Samantha Prime|
+|10:50–11:15| How AI / Health Data Science can influence health policy?| Sheena Asthana, Director CHT| Samantha Prime|
+|11:15–11:45| IRIS |Michael Bond and Julian Stander (UoP)| Nathan Broomhead|
+|11:45–12:15| BT |Dave Yearlington and Sriharish Kalidass|Nathan Broomhead|
+|12:15–12:45|Royal Devon University Healthcare NHS Foundation Trust |Philip Luke / Elizabeth Wilkinson|Nathan Broomhead|
+|12:45–13:30| Lunch – Networking and Discussing Collaboration|
+|13:30–14:00| IPSOS |Eileen Irvin| Stephanie Riley|
+|14:00–14:30| Gendius| Rose Sisk|Stephanie Riley|
+|14:30–14:45|Image data research |Craig McNeile|Julian Stander|
+|14:45–15:15| PGT project showcase| Shadi Babadi Michael Gulley Josh Gray|Julian Stander|
+|15:15–15:45| PhD project showcase| Stephanie Riley Xu Wang Megan Courtman|Julian Stander|
+|15:45–15:50|Closing remarks |Yinghui Wei||
+
+
 
 ## $11^{th}$ of November
 
