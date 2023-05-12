@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "EPSRC Health Data Workshops"
+  title: "Health Data Science Research"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: spacelab
+    theme: yeti
     css: styles.css
     toc: true
 
