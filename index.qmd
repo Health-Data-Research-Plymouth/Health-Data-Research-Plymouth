@@ -1,10 +1,66 @@
 ---
-title: "Plymouth Health Data Research"
+title: "Plymouth Health Data Science Research"
 ---
 
 # About
+Health Data Science at the University of Plymouth is an interdisciplinary research programme, building upon our expertise in big data, mathematics, statistics, high performance computing and their applications in health and care. We work closely with NHS trusts, health and care organisations, industry and the third sector. Our vision is to use data science approaches to improve health and care for patient and public benefit.
 
-The aim of these workshops is to catalyse the benefit of academic research for healthcare patients, bridging the gap between research and practice. In addition to the workshops, we will be organising regular meetings for academic staff and non-academic partners to showcase their work and exchange knowledge.
+The [Health Data Science Research Group](https://www.plymouth.ac.uk/research/health-data-science-research), supported by EPSRC Impact Acceleration Account, is running two workshops under the broad theme of __using data and analytical approaches to improve healthcare services for patient and public benefit__. The aim of these workshops is to catalyse the benefit of academic research for healthcare patients, bridging the gap between research and practice. In addition to the workshops, we will be organising regular meetings for academic staff and non-academic partners to showcase their work and exchange knowledge. 
+
+This workshop is a great opportunity to share expertise and facilitate collaborations, leading to various project opportunities for postgraduate students. For further information or if would like to get involved, please contact [Dr Yinghui Wei](mailto:yinghui.wei@plymouth.ac.uk).
+
+
+# Workshops
+If you would like to attend the workshop, please contact [Dr Yinghui Wei](mailto:yinghui.wei@plymouth.ac.uk).
+
+## June 26$^\text{th}$ 2023
+
+### Agenda
+
+| Time | Content | Speaker | Chair |
+|:--|:-----|:--|:--|
+|10:00–10:30| **Tea and coffee, breakfast baps and fruit bowls** |
+|10:35–10:45| Welcome | Archie Clements, Deputy Vice Chancellor Reasearch & Enterprise | Nathan Broomhead|
+|10:45–10:50| Project Overview | Yinghui Wei, Project PI | |
+|10:50–11:15| How AI / Health Data Science can influence health policy?| Sheena Asthana, Director CHT| |
+|11:15–11:45| IRIS |Michael Bond and Julian Stander (UoP)| Samantha Prime|
+|11:45–12:15| BT |Dave Yearlington and Sriharish Kalidass| |
+|12:15–12:45| Royal Devon University Healthcare NHS Foundation Trust | Philip Luke / Elizabeth Wilkinson| |
+|12:45–13:30| **Lunch – Networking and Discussing Collaboration**|
+|13:30–14:00| IPSOS |Eileen Irvin| Stephanie Riley|
+|14:00–14:30| Gendius| Rose Sisk| |
+|14:30-15:00| Torbay and South Devon NHS Foundation Trust| Matthew Halkes| Laurence Bowes|
+|15:00–15:15| Image data research |Craig McNeile| |
+|15:15-15:30| PGT rapid-fire showcase| Shadi Babadi<br>Michael Gulley<br>Josh Gray| Julian Stander|
+|15:30–15:45| PhD rapid-fire showcase| Stephanie Riley<br>Xu Wang<br>Megan Courtman| |
+|15:45–15:50|Closing remarks |Yinghui Wei||
+|15:50-16:00| **Coffee - Networking and Discussing Collaboration**|
+
+
+
+## November 11$^\text{th}$ 2022
+
+### Agenda
+
+| Time | Talk | Speaker | Chair |
+|:-|:-----|:-----|:---|
+| 11:30–11:40 | Welcome | Alex Belton, Head of School | Nathan Broomhead |
+| 11:40–11:50 | Project overview | Yinghui Wei, Project PI | |
+| 11:50–12:15 | [Plymouth Institute for Health and Care Research](https://www.plymouth.ac.uk/research/institutes/health) | Sheena Asthana | |
+| 12:15–12:30 | [![TClarke](_assets/tclarke_logo.png){height="25"}](https://www.tclarke.co.uk/) | Rob Faro | Samantha Prime |
+| 12:30–12:45 | [![Royal Cornwall Hospitals NHS Trust](_assets/rcht_logo.png){height="40"}](https://www.royalcornwall.nhs.uk/)| Roberta Fuller | |
+| 12:45-13:00 | [![Royal Cornwall Hospitals NHS Trust](_assets/rcht_logo.png){height="40"}](https://www.royalcornwall.nhs.uk/) | Joe Turner | |
+| 13:00–13:15 | [![IRIS Intelligence](_assets/iris_logo.png){height="40"}](https://www.irisintelligence.com/)  |  Michael Bond | Stephanie Riley |
+| 13:15–13:30 | [![Ipsos](_assets/ipsos_logo.svg){height="40"}](https://www.ipsos.com/en-uk) | Eileen Irvin | |
+| 13:30–14:00 | **Break** |                                
+| 14:00–14:15 | Cisco | Sumeet Bhatia | Samantha Prime |                              
+| 14:15–14:30 | [![Gendius](_assets/gendius_logo.svg){height="40"}](https://www.gendius.co.uk/) | Mark Edge | |
+| 14:30–14:45 | Tango3 [![Tango 3](_assets/tango3_logo.webp){height="40"}](https://tango3.co.uk/digital-health) | Mike Trebilcock | |
+| 14:45–15:00 | High Performance Computing and Big Data | Vincent Drach | Julian Stander |
+| 15:00–15:20 | Academic Expertise | Julian Stander<br>Lauren Ansell<br>Mariam Pirashvili<br>Gosia Wojtys<br>Mona Nasser<br>Craig McNeille<br>Luciana Dalla Valle<br>Nathan Broomhead | Laurence Bowes |                     
+| 15:20–15:30 | _"What’s next?"_ | Yinghui Wei | |                              
+
+
 
 # Project Partners
 
@@ -16,60 +72,10 @@ The aim of these workshops is to catalyse the benefit of academic research for h
 - [![Gendius](_assets/gendius_logo.svg){height="30"}](https://www.gendius.co.uk/)
 - Tango 3  [![Tango 3](_assets/tango3_logo.webp){height="40"}](https://tango3.co.uk/digital-health)
 - [![IRIS Intelligence](_assets/iris_logo.png){height="40"}](https://www.irisintelligence.com/) 
-- Royal Cornwall Hospitals Business Intelligence
+- Royal Cornwall Hospitals NHS Trust
 - NHS Kernow Datalab
+- Royal Devon University Healthcare NHS Foundation Trust
+- Torbay and South Devon NHS Foundation Trust
 - NHS Business Services Authority
 - Health Education England
 - Cisco
-
-# Workshops
-
-The Health Data Research (HDR) group at the University of Plymouth is running two workshops under the broad theme of __using data and analytical approaches to improve healthcare services for patient and public benefit.__
-
-This workshop is a great opportunity to share expertise and facilitate collaborations, leading to various project opportunities for postgraduate students.
-
-## June 26$^\text{th}$ 2023
-
-### Agenda
-
-| Time | Content | Speaker | Chair |
-|:--|:-----|:--|:--|
-|10:00–10:30| **Tea and coffee, breakfast baps and fruit bowls** |
-|10:35–10:45| Welcome | Archie Clements, DVC R&E | Nathan Broomhead|
-|10:45–10:50| Project Overview | Yinghui Wei, Project PI | Nathan Broomhead|
-|10:50–11:15| How AI / Health Data Science can influence health policy?| Sheena Asthana, Director CHT| Nathan Broomhead|
-|11:15–11:45| IRIS |Michael Bond and Julian Stander (UoP)| Samantha Prime|
-|11:45–12:15| BT |Dave Yearlington and Sriharish Kalidass| Samantha Prime|
-|12:15–12:45| Royal Devon University Healthcare NHS Foundation Trust | Philip Luke / Elizabeth Wilkinson| Samantha Prime|
-|12:45–13:30| **Lunch – Networking and Discussing Collaboration**|
-|13:30–14:00| IPSOS |Eileen Irvin| Stephanie Riley|
-|14:00–14:30| Gendius| Rose Sisk|Stephanie Riley|
-|14:30-15:00| Torbay South Devon NHS Foundation Trust| Matthew Halkes| Laurence Bowes|
-|15:00–15:15| Image data research |Craig McNeile| Laurence Bowes|
-|15:15-15:30| PGT rapid-fire showcase| Shadi Babadi<br>Michael Gulley<br>Josh Gray| Julian Stander|
-|15:30–15:45| PhD rapid-fire showcase| Stephanie Riley<br>Xu Wang<br>Megan Courtman| Julian Stander|
-|15:45–15:50|Closing remarks |Yinghui Wei||
-|15:50-16:00| **Coffee - Networking and Discussing Collaboration**|
-
-
-
-## November 11$^\text{th}$ 2022
-
-### Agenda
-
-| Time | Talk |
-|:-|:-----|
-| 11:30–11:40 | Welcome |
-| 11:40–11:50 | Project overview |
-| 11:50–12:15 | [Plymouth Institute for Health and Care Research](https://www.plymouth.ac.uk/research/institutes/health) |
-| 12:15–12:30 | [![TClarke](_assets/tclarke_logo.png){height="25"}](https://www.tclarke.co.uk/) |
-| 12:30–13:00 | [![Royal Cornwall Hospitals NHS Trust](_assets/rcht_logo.png){height="40"}](https://www.royalcornwall.nhs.uk/)|
-| 13:00–13:15 | [![IRIS Intelligence](_assets/iris_logo.png){height="40"}](https://www.irisintelligence.com/)  |
-| 13:15–13:30 | [![Ipsos](_assets/ipsos_logo.svg){height="40"}](https://www.ipsos.com/en-uk) |
-| 13:30–14:00 | **Break** |                                
-| 14:00–14:15 | [![Kensa Health](_assets/kensahealth_logo.png){height="35"}](https://www.kensahealth.co.uk/) |                               
-| 14:15–14:30 | [![Gendius](_assets/gendius_logo.svg){height="40"}](https://www.gendius.co.uk/) |
-| 14:30–14:45 | Tango3 [![Tango 3](_assets/tango3_logo.webp){height="40"}](https://tango3.co.uk/digital-health) |
-| 14:45–15:00 | High Performance Computing and Big Data |
-| 15:00–15:20 | Academic Expertise |                        
-| 15:20–15:30 | _"What’s next?"_ |                               
