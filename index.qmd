@@ -56,8 +56,7 @@ If you would like to attend the workshop, please contact [Dr Yinghui Wei](mailto
 | 14:00–14:15 | Cisco | Sumeet Bhatia | Samantha Prime |                              
 | 14:15–14:30 | [![Gendius](_assets/gendius_logo.svg){height="40"}](https://www.gendius.co.uk/) | Mark Edge | |
 | 14:30–14:45 | Tango3 [![Tango 3](_assets/tango3_logo.webp){height="40"}](https://tango3.co.uk/digital-health) | Mike Trebilcock | |
-| 14:45–15:00 | High Performance Computing | Vincent Drach | Julian Stander |
-|             | Big Data | Matthew Craven |  |
+| 14:45–15:00 | High Performance Computing <br> Big Data | Vincent Drach <br> Matthew Craven | Julian Stander |
 | 15:00–15:20 | Academic Expertise | Julian Stander<br>Lauren Ansell<br>Mariam Pirashvili<br>Gosia Wojtys<br>Mona Nasser<br>Craig McNeille<br>Luciana Dalla Valle<br>Nathan Broomhead | Laurence Bowes |                     
 | 15:20–15:30 | _"What’s next?"_ | Yinghui Wei | |                              
 
