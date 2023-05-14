@@ -17,7 +17,7 @@ These workshops are a great opportunity to share expertise and facilitate collab
 | Time | Content | Speaker | Chair |
 |:--|:-----|:--|:--|
 |10:00–10:30| **Tea and coffee, breakfast baps and fruit bowls** |
-|10:35–10:45| Welcome | Archie Clements, Deputy Vice Chancellor Reasearch & Enterprise | Nathan Broomhead|
+|10:35–10:45| Welcome | Archie Clements, Deputy Vice Chancellor Research & Innovation | Nathan Broomhead|
 |10:45–10:50| Project Overview | Yinghui Wei, Project PI | |
 |10:50–11:15| How AI / Health Data Science can influence health policy?| Sheena Asthana, Director CHT| |
 |11:15–11:45| IRIS Intelligence |Michael Bond and Julian Stander (UoP)| Samantha Prime|
