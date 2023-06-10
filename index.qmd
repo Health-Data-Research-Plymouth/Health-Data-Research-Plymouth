@@ -20,17 +20,17 @@ These workshops provide great opportunities to share expertise and facilitate ac
 |10:35–10:45| Welcome | Archie Clements, Deputy Vice Chancellor Research & Innovation | Nathan Broomhead|
 |10:45–10:50| Project Overview | Yinghui Wei, Project PI | |
 |10:50–11:15| How AI / Health Data Science can influence health policy?| Sheena Asthana, Director Centre for Health Technology| |
-|11:15–11:45| IRIS Intelligence |Michael Bond and Julian Stander (UoP)| Samantha Prime|
-|11:45–12:15| BT |Dave Yearlington and Sriharish Kalidass| |
+|11:15–11:45| [![IRIS Intelligence](_assets/iris_logo.png){height="40"}](https://www.irisintelligence.com/) |Michael Bond and Julian Stander (UoP)| Samantha Prime|
+|11:45–12:15| BT |Dave Yearling and Sriharish Kalidass| |
 |12:15–12:45| Royal Devon University Healthcare NHS Foundation Trust | Philip Luke / Elizabeth Wilkinson| |
 |12:45–13:30| **Lunch – Networking and Discussing Collaboration**|
-|13:30–14:00| IPSOS |Eileen Irvin| Stephanie Riley|
-|14:00–14:30| Gendius| Rose Sisk| |
+|13:30–14:00| [![Ipsos](_assets/ipsos_logo.svg){height="40"}](https://www.ipsos.com/en-uk) |Eileen Irvin| Stephanie Riley|
+|14:00–14:30| [![Gendius](_assets/gendius_logo.svg){height="40"}](https://www.gendius.co.uk/) | Rose Sisk| |
 |14:30-15:00| Torbay and South Devon NHS Foundation Trust| Matthew Halkes| Laurence Bowes|
 |15:00–15:15| Image data research |Craig McNeile| |
 |15:15-15:30| PGT rapid-fire showcase| Shadi Babadi<br>Michael Gulley<br>Josh Gray| Julian Stander|
 |15:30–15:45| PhD rapid-fire showcase| Stephanie Riley<br>Xu Wang<br>Megan Courtman| |
-|15:45–15:50|Closing remarks |Yinghui Wei||
+|15:45–15:50| Closing remarks |Yinghui Wei||
 |15:50-17:00| **Tea/Coffee - Networking and Discussing Collaboration**|
 
 
@@ -54,7 +54,7 @@ These workshops provide great opportunities to share expertise and facilitate ac
 | 14:15–14:30 | [![Gendius](_assets/gendius_logo.svg){height="40"}](https://www.gendius.co.uk/) | Mark Edge | |
 | 14:30–14:45 | Tango3 [![Tango 3](_assets/tango3_logo.webp){height="40"}](https://tango3.co.uk/digital-health) | Mike Trebilcock | |
 | 14:45–15:00 | High Performance Computing <br> Big Data | Vincent Drach <br> Matthew Craven | Julian Stander |
-| 15:00–15:20 | Academic Expertise | Julian Stander<br>Lauren Ansell<br>Mariam Pirashvili<br>Gosia Wojtys<br>Mona Nasser<br>Craig McNeille<br>Luciana Dalla Valle<br>Nathan Broomhead | Laurence Bowes |                     
+| 15:00–15:20 | Academic Expertise | Julian Stander<br>Lauren Ansell<br>Mariam Pirashvili<br>Gosia Wojtys<br>Mona Nasser<br>Craig McNeile<br>Luciana Dalla Valle<br>Nathan Broomhead | Laurence Bowes |                     
 | 15:20–15:30 | _"What’s next?"_ | Yinghui Wei | |                              
 
 
