@@ -21,7 +21,7 @@ These workshops provide great opportunities to share expertise and facilitate ac
 |10:45–10:50| Project Overview | Yinghui Wei, Project PI | |
 |10:50–11:15| How AI / Health Data Science can influence health policy?| Sheena Asthana, Director Centre for Health Technology| |
 |11:15–11:45| [![IRIS Intelligence](_assets/iris_logo.png){height="40"}](https://www.irisintelligence.com/) |Michael Bond and Julian Stander (UoP)| Samantha Prime|
-|11:45–12:15| [![BT](_assets/bt_logo.png){height="40}] |Dave Yearling and Sriharish Kalidass| |
+|11:45–12:15| [![BT](_assets/bt_logo.png){height="40"}] |Dave Yearling and Sriharish Kalidass| |
 |12:15–12:45| [![Royal Devon University Healthcare NHS Foundation Trust](_assets/royal-devon_logo.png){height="40"}](https://www.royaldevon.nhs.uk/) | Philip Luke / Elizabeth Wilkinson| |
 |12:45–13:30| **Lunch – Networking and Discussing Collaboration**|
 |13:30–14:00| [![Ipsos](_assets/ipsos_logo.svg){height="40"}](https://www.ipsos.com/en-uk) |Eileen Irvin| Stephanie Riley|
@@ -67,8 +67,8 @@ These workshops provide great opportunities to share expertise and facilitate ac
 - [![Ipsos](_assets/ipsos_logo.svg){height="40"}](https://www.ipsos.com/en-uk)
 - [![IRIS Intelligence](_assets/iris_logo.png){height="40"}](https://www.irisintelligence.com/) 
 - [![Kensa Health](_assets/kensahealth_logo.png){height="35"}](https://www.kensahealth.co.uk/)
-- NHS Business Services Authority
-- Health Education England
+- [![NHS Business Services Authority](_assets/nhs-business-services_logo.svg){height="40"}](https://www.nhsbsa.nhs.uk/)
+- [![Health Education England](_assets/health-education-england_logo.png){height="40"}](https://www.hee.nhs.uk/)
 - NHS Kernow Datalab
 - [![Royal Cornwall Hospitals NHS Trust](_assets/rcht_logo.png){height="40"}](https://www.royalcornwall.nhs.uk/)
 - [![Royal Devon University Healthcare NHS Foundation Trust](_assets/royal-devon_logo.png){height="40"}](https://www.royaldevon.nhs.uk/)
